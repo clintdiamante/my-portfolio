@@ -269,6 +269,11 @@
     border-radius: 0;
   }
 
+  .card-body
+  {
+    padding: 80px;
+  }
+
   .works
   {
     display: none;
